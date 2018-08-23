@@ -9,4 +9,4 @@ Cloudron is a complete solution for running apps on your server and keeping them
 
 The source code for the package can be found [here](https://git.cloudron.io/cloudron/letschat-app/).
 
-You can also test the jingo installation on the demo Cloudron instance - https://my-demo.cloudron.me (username: cloudron password: cloudron).
+You can also test the Let's Chat installation on the demo Cloudron instance - https://my-demo.cloudron.me (username: cloudron password: cloudron).
