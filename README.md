@@ -3,7 +3,7 @@
 Cloudron is a complete solution for running apps on your server and keeping them up-to-date and secure.
 
 1. First install Cloudron on your server with 3 simple commands - https://cloudron.io/get.html
-2. Install Jingo from the Cloudron Store. Once installed, you will get automatic updates for Jingo as and when they get released.
+2. Install Let's Chat from the Cloudron Store. Once installed, you will get automatic updates for Let's Chat as and when they get released.
 
 [![Install](https://cloudron.io/img/button.svg)](https://cloudron.io/button.html?app=io.github.sdelements.lets_chat.cloudronapp)
 
